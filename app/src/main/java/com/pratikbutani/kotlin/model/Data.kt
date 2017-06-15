@@ -1,4 +1,4 @@
-package com.pratikbutani.kotlin
+package com.pratikbutani.kotlin.model
 
 /**
  * Created by Pratik Butani on 14/06/17.

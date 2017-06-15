@@ -1,11 +1,14 @@
-package com.pratikbutani.kotlin
+package com.pratikbutani.kotlin.ui
 
 import android.databinding.DataBindingUtil
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import com.pratikbutani.kotlin.BR
+import com.pratikbutani.kotlin.R
 import com.pratikbutani.kotlin.databinding.ActivityMainBinding
+import com.pratikbutani.kotlin.model.Data
 
 
 class MainActivity : AppCompatActivity() {
